@@ -21,7 +21,7 @@
   </button>
   <div class="collapse navbar-collapse d-flex" style="justify-content: space-around;" id="navbarTogglerDemo01" >
     <div>
-        <h5>Stationary Management</h5>
+        <h5>Stationary Managements</h5>
     </div>
     <div>
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
